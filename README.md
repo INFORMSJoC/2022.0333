@@ -1,21 +1,21 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-#  [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org)
+#  [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333)
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org) by J. D. Qin, P. Zheng, and X. J. Wang.
+[Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333) by J. D. Qin, P. Zheng, and X. J. Wang.
 
 ## Cite
 
-To cite this software, please cite the [Jindong Qin, Pan Zheng, Xiaojun Wang. Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method, INFORMS Journal on Computing.](https://doi.org)
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-Using its DOI and the software itself, using the following DOI.
+https://doi.org/10.1287/ijoc.2022.0333
 
-[![DOI](https://zenodo.org/badge/714220310.svg)](https://zenodo.org/doi/10.5281/zenodo.10072354)
+https://doi.org/10.1287/ijoc.2022.0333.cd
 
 Below is the BibTex for citing this version of the code.
 
@@ -25,7 +25,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method},
   year =          {2023},
-  doi =           {10.5281/zenodo.10072354},
+  doi =           {10.1287/ijoc.2022.0333.cd},
   note =          {https://github.com/INFORMSJoC/2022.0333},
 }  
 ```
